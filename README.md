@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @niccolosottile, a computer science student at the University of Bath
-- My passion is in building platforms which bring value to a market, experimenting and keeping up to date with emerging technologies
-- I'm expanding my knowledge in React, Node, Express, and MongoDB while working with deep learning technologies. 
+- 👋 Hi, I’m @niccolosottile, a final year computer science student at the University of Bath
+- My passion is in building platforms which leverage the power of data, experimenting and keeping up to date with emerging technologies
+- I'm expanding my knowledge in full stack development while working with machine learning (ML) technologies, including deep learning, reinforcement learning (RL), and natural language processing (NLP)
